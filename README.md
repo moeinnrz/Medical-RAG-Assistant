@@ -1,5 +1,9 @@
 # Medical RAG Assistant
 
+<p align="center">
+  <img src="assets/medical-rag-banner.svg" alt="Medical RAG Assistant banner" width="100%">
+</p>
+
 A document-grounded Retrieval-Augmented Generation (RAG) application that retrieves relevant passages from a PDF and uses a Groq-hosted LLM to generate answers from that context.
 
 > **Educational project:** This application is for document retrieval and learning purposes. It is not a medical diagnostic system and should not replace professional medical advice.
