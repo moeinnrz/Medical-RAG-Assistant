@@ -1,7 +1,7 @@
 # Medical RAG Assistant
 
 <p align="center">
-  <img src="assets/medical-rag-banner.svg" alt="Medical RAG Assistant banner" width="100%">
+  <img width="1536" height="330" alt="medicalRag" src="https://github.com/user-attachments/assets/c123b82b-85f5-4360-a6ac-e6fea8464e6d" />
 </p>
 
 A document-grounded Retrieval-Augmented Generation (RAG) application that retrieves relevant passages from a PDF and uses a Groq-hosted LLM to generate answers from that context.
