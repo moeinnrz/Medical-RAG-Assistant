@@ -4,14 +4,14 @@
  <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#19e6d1"/><stop offset="1" stop-color="#39a7ff"/></linearGradient>
 </defs>
 <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
-<g opacity=".12" stroke="#7fffea" fill="none"><circle cx="1060" cy="85" r="105"/><path d="M955 85h210M1060-20v210M990 15l140 140M1130 15 990 155"/></g>
+<g opacity=".12" stroke="#7fffea" fill="none"><circle cx="1060" cy="85" r="95"/><path d="M965 85h190M1060-10v190M995 20l130 130M1125 20 995 150"/></g>
 <rect x="48" y="48" width="92" height="92" rx="18" fill="#062c32" stroke="#20ead5" stroke-width="3"/>
 <path d="M75 82h38M94 63v38" stroke="#5fffea" stroke-width="12" stroke-linecap="round"/>
 <text x="170" y="82" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="white">Medical RAG</text>
 <text x="170" y="128" font-family="Arial,sans-serif" font-size="43" font-weight="700" fill="url(#accent)">Assistant</text>
 <text x="48" y="170" font-family="Arial,sans-serif" font-size="18" fill="#c8fff8">Search  •  Retrieve  •  Generate grounded answers</text>
 <text x="48" y="204" font-family="Arial,sans-serif" font-size="16" fill="#b7e9e8">PDF → Extraction → Chunking → Embeddings → ChromaDB → Groq LLM</text>
-<g transform="translate(640 60)">
+<g transform="translate(610 70) scale(.82)">
  <rect width="130" height="92" rx="15" fill="#08283c" stroke="#39b9ff" stroke-width="2"/>
  <text x="28" y="38" font-family="Arial,sans-serif" font-size="19" fill="white">Medical</text><text x="28" y="63" font-family="Arial,sans-serif" font-size="19" fill="#62eaff">PDF</text>
  <path d="M145 46h55" stroke="#62eaff" stroke-width="3"/><path d="M192 38l10 8-10 8" fill="none" stroke="#62eaff" stroke-width="3"/>
